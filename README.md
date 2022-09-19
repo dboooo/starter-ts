@@ -4,4 +4,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Anthony Fu](https://github.com/db)
+[MIT](./LICENSE) License © 2022 [dboooo](https://github.com/dboooo)
